@@ -1,2 +1,1 @@
-# Git-desde-cero
-just for practice
+Este es mi repo
